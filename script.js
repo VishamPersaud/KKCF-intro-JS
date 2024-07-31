@@ -23,3 +23,9 @@
 //link up html file and create prompt and save value
 
 //access the DOM
+
+//alert("Your computer does not have a virus ")
+
+let username = prompt("Enter your name");
+
+console.log(username)
